@@ -1,2 +1,8 @@
-Section 1*/
-Section 3*/
+#Sparse Checkout Path
+_Section 1*/
+_Section 3*/
+
+
+#Git polling commit use + to include (trigger builds when these change) and - to Excluded regions (ignore these changes)
+
++src/*
