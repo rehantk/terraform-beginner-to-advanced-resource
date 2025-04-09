@@ -1,0 +1,7 @@
+#include (trigger builds when these change)
++src/*
+
+
+#Excluded regions (ignore these changes)
+-docs/.*
+-tests/.*\.tmp
